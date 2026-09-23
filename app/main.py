@@ -21,12 +21,8 @@ first_number = 10
 second_number = 20
 third_number = 30
 fourth_number = 40
-
-# Lines 20 and 21 using the new names
-result1 = second_number + fourth_number 
-result2 = first_number + third_number 
-
-# Dictionary sorting them by mutability (numbers are immutable)
+result1 = second_number + fourth_number
+result2 = first_number + third_number
 sorted_variables = {
     "mutable": [],
     "immutable": [first_number, second_number, third_number, fourth_number]

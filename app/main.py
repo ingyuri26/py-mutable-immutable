@@ -16,7 +16,6 @@ sorted_variables = {
         name,
         profile_info,
     ],
-=======
     "mutable": [b, d],
     "immutable": [a, c]
 }
